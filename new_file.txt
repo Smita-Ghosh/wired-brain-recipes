@@ -3,3 +3,4 @@ this is 2nd line
 this is a new line added using IDEAS
 ##Manually merged keeping all the changes
 new line in Spagitee
+THIS IS A NEW LINE IN MASTER
