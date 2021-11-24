@@ -3,4 +3,8 @@ this is 2nd line
 this is a new line added using IDEAS
 ##Manually merged keeping all the changes
 new line in Spagitee
+<<<<<<< HEAD
 THIS IS A NEW LINE IN MASTER
+=======
+##this is a new line in REBASE_BRANCH
+>>>>>>> 512c15d (REBASE BRANCH commit)
