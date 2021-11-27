@@ -8,3 +8,4 @@ THIS IS A NEW LINE IN MASTER
 =======
 ##this is a new line in REBASE_BRANCH
 >>>>>>> 512c15d (REBASE BRANCH commit)
+test new file
