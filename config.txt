@@ -1,3 +1,5 @@
 This is a config file which is created on the remote
 Adding additional info
 new line in config file
+
+Adding new line in branch
